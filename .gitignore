@@ -1,0 +1,8 @@
+/workspace/
+**/target/
+todero-component-runner.jar
+todero-runner.jar
+.DS_Store
+.idea/
+*.iml
+out/
